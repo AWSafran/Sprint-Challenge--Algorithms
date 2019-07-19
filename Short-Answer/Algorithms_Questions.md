@@ -19,7 +19,7 @@ b)  sum = 0
         j += 1
         for k in range(j + 1, n):
           k += 1
-          for l in range(k + 1, 10 + k):
+          for l in range(k + 1, 10 + k): 
             l += 1
             sum += 1
 ```
